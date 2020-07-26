@@ -1,0 +1,16 @@
+.button{
+    position:absolute;
+    background-color:red;
+    color:white;
+    border-radius:20px;
+    transition: all 0.5s;
+    text-align: center;
+}
+
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
